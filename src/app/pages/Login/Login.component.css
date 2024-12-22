@@ -1,0 +1,311 @@
+.imagem-do-fundo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1942px;
+  height: 1114px;
+  object-fit: cover;
+}
+.fundo-desfocado-icon {
+  position: fixed;
+  top: calc(52% - 268px);
+  left: calc(50% - 632px);
+  border-radius: var(--br-11xl);
+  width: 1294px;
+  height: 728px;
+  object-fit: cover;
+}
+.novaconta {
+  position: absolute;
+  top: 174px;
+  left: 313px;
+  backdrop-filter: blur(100px);
+  border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  width: 487px;
+  height: 728px;
+}
+.cmtfacalogin, .cmtbemvindo {
+  position: absolute;
+  letter-spacing: 0.3em;
+  display: inline-block;
+}
+.cmtfacalogin {
+  top: 480px;
+  left: 1026px;
+  font-size: 40px;
+  width: 404px;
+  height: 47px;
+}
+.cmtbemvindo {
+  top: 409px;
+  left: 380px;
+  width: 358px;
+  height: 42px;
+}
+.ellipse-setas-vai-e-volta {
+  position: absolute;
+  top: 495px;
+  left: 755px;
+  width: 90px;
+  height: 90px;
+}
+.setas-vaievolta-icon {
+  position: absolute;
+  top: 519px;
+  left: 780px;
+  width: 41px;
+  height: 41px;
+  object-fit: cover;
+}
+.cxcreateconta, .cxentra {
+  position: absolute;
+  top: 559px;
+  left: 398px;
+  box-shadow: 10px 10px 100px rgba(0, 0, 0, 0.7);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-200);
+  width: 317px;
+  height: 51px;
+}
+.cxentra {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 267px;
+  height: 62px;
+}
+.entrar {
+  margin: 0;
+}
+.btentrar, .btcreate {
+  position: absolute;
+  top: 12px;
+  left: 3px;
+  font-weight: 900;
+  display: inline-block;
+  width: 256px;
+  height: 38px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.boto-de-entrar, .boto-de-criar {
+  position: absolute;
+  width: 267px;
+  height: 62px;
+  cursor: pointer;
+  font-size: var(--font-size-13xl);
+}
+.boto-de-entrar {
+  top: 767px;
+  left: 1094px;
+}
+.boto-de-criar {
+  top: 568px;
+  left: 428px;
+}
+.createconta, .novologin {
+  position: absolute;
+  font-weight: 900;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.createconta {
+  top: 568px;
+  left: 428px;
+  font-size: var(--font-size-5xl);
+  width: 256px;
+  height: 38px;
+  cursor: pointer;
+}
+.novologin {
+  top: 446px;
+  left: 360px;
+  font-size: var(--font-size-45xl);
+  white-space: pre-wrap;
+  width: 393px;
+  height: 67px;
+}
+.icons8-user-96-1 {
+  position: absolute;
+  top: 15px;
+  left: 33px;
+  width: 35px;
+  height: 35px;
+  object-fit: cover;
+}
+
+.user {
+  position: absolute;
+  top: 13px;
+  left: 17px;
+  letter-spacing: 0.3em;
+  display: inline-block;
+  width: 404px;
+  height: 47px;
+}
+.usuario-child {
+  position: absolute;
+  top: 7.5px;
+  left: 84.5px;
+  background-color: #d9d9d9;
+  border-right: 1px dashed var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 49px;
+}
+.usuario {
+  position: absolute;
+  width: 450px;
+  height: 65px;
+}
+.usuario {
+  top: 545px;
+  left: 1001px;
+  color: var(--color-black);
+}
+.cxsenha {
+  top: 0;
+  left: 0;
+  box-shadow: 10px 10px 100px rgba(0, 0, 0, 0.7);
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-200);
+}
+.senha1 {
+  position: absolute;
+  top: 16px;
+  left: 68px;
+  letter-spacing: 0.3em;
+  display: inline-block;
+  width: 236px;
+  height: 48px;
+}
+.senha-child {
+  position: absolute;
+  top: 7.5px;
+  left: 84.5px;
+  background-color: var(--color-black);
+  border-right: 1px dashed var(--color-black);
+  box-sizing: border-box;
+  width: 1px;
+  height: 49px;
+}
+.senha {
+  position: absolute;
+  top: 656px;
+  left: 1003px;
+  width: 450px;
+  height: 65px;
+  color: var(--color-black);
+}
+.icons8-facebook-num-crculo-24, .icons8-instagram-240-1-1, .icons8-whatsapp-240-1 {
+  position: absolute;
+  top: 781px;
+  left: 590px;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.icons8-facebook-num-crculo-24, .icons8-whatsapp-240-1 {
+  left: 478px;
+}
+.icons8-whatsapp-240-1 {
+  left: 534px;
+}
+.cmtnome-completo {
+  position: absolute;
+  top: 863px;
+  left: 1034px;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.1em;
+  display: inline-block;
+  font-weight: 300;
+  width: 376px;
+  height: 47px;
+}
+.image-1-icon {
+  position: absolute;
+  top: 196px;
+  left: 1093px;
+  width: 263px;
+  height: 266px;
+  object-fit: cover;
+}
+.login {
+  width: 100%;
+  position: relative;
+  backdrop-filter: blur(100px);
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.login input:focus {
+  background-color: #ffffff; /* Torna o fundo branco */
+  border-color: #007bff; /* Adiciona uma borda azul */
+  outline: none; /* Remove o contorno padrão do navegador */
+}
+.cxusuario-input, .senha-input {
+  width: calc(90% - 180px);
+  height: 60%;
+  left: 50px;
+  border: none;
+  outline: none;
+  background: rgba(255, 255, 255, 0.281);
+  font-size: 16px;
+  color: black;
+  padding: 10px;
+  border-radius: 5px;
+}
+.login input:focus {
+  background-color: #ffffff; /* Torna o fundo branco */
+  border-color: #007bff; /* Adiciona uma borda azul */
+  outline: none; /* Remove o contorno padrão do navegador */
+}
+@media screen and (max-width: 1200px) {
+  .cmtfacalogin {
+    left: 60%; /* Ajustando a posição para centralizar */
+  }
+  .cmtbemvindo {
+    left: 20%; /* Centraliza o texto */
+  }
+  .usuario, .senha {
+    left: 50%;
+    transform: translateX(-50%); /* Garante o centro para os inputs */
+  }
+}
+@media screen and (max-width: 768px) {
+  .fundo-desfocado-icon {
+    width: 100%;
+    left: 0;
+  }
+  .novaconta {
+    width: 90%;
+    left: 5%;
+  }
+  .usuario, .senha {
+    width: 80%;
+    left: 10%;
+  }
+  .boto-de-entrar, .createconta {
+    width: 80%;
+    left: 10%;
+  }
+}
+@media screen and (max-width: 480px) {
+  .fundo-desfocado-icon {
+    width: 100%;
+    left: 0;
+  }
+  .novaconta, .usuario, .senha, .boto-de-entrar, .createconta {
+    width: 90%;
+    left: 5%;
+  }
+  .cmtfacalogin, .cmtbemvindo {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+

@@ -1,0 +1,174 @@
+.imagem-do-fundo1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1942px;
+  height: 1114px;
+  object-fit: cover;
+}
+.fundo-desfocado-icon1 {
+  position: absolute;
+  top: calc(50% - 496px);
+  left: calc(50% - 876px);
+  border-radius: var(--br-11xl);
+  width: 1773px;
+  height: 974px;
+  object-fit: cover;
+}
+.cmtbemvindo1,
+.novologin1 {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+}
+.novologin1 {
+  top: 144px;
+  left: 865px;
+  font-size: var(--font-size-45xl);
+  font-weight: 900;
+  width: 646px;
+  height: 67px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.cmtbemvindo1 {
+  top: 109px;
+  left: 1009px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 0.3em;
+  width: 358px;
+  height: 42px;
+}
+.estamos-muito-felizes {
+  margin: 0;
+}
+.createconta1,
+.createconta2 {
+  position: absolute;
+  top: 327px;
+  left: 657px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 0.1em;
+  display: inline-block;
+  font-weight: 500;
+  text-align: center;
+  width: 1083px;
+  height: 616px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.createconta2 {
+  top: 957px;
+  left: 1518px;
+  width: 333px;
+  height: 49px;
+}
+.novaconta1 {
+  position: absolute;
+  top: 51px;
+  left: 78px;
+  backdrop-filter: blur(100px);
+  border-radius: var(--br-11xl) 0 0 var(--br-11xl);
+  background-color: rgba(0, 0, 0, 0.25);
+  width: 537px;
+  height: 974px;
+}
+.fazer-encarte,
+.fazer-encarte1 {
+  left: 185px;
+  letter-spacing: 0.1em;
+  width: 302px;
+  height: 47px;
+}
+.fazer-encarte {
+  position: absolute;
+  top: 342px;
+  display: inline-block;
+}
+.fazer-encarte1 {
+  top: 263px;
+}
+.fazer-encarte1,
+.historico,
+.relatorio {
+  position: absolute;
+  display: inline-block;
+}
+.historico {
+  top: 429px;
+  left: 185px;
+  letter-spacing: 0.1em;
+  width: 302px;
+  height: 47px;
+}
+.relatorio {
+  top: 546px;
+}
+.anterior,
+.lista,
+.relatorio {
+  left: 185px;
+  letter-spacing: 0.1em;
+  width: 302px;
+  height: 47px;
+}
+.anterior {
+  position: absolute;
+  top: 663px;
+  display: inline-block;
+}
+.lista {
+  top: 783px;
+}
+.cmtbemvindo2,
+.lista,
+.novologin2,
+.sobre {
+  position: absolute;
+  display: inline-block;
+}
+.sobre {
+  top: 910px;
+  left: 185px;
+  letter-spacing: 0.1em;
+  width: 302px;
+  height: 47px;
+}
+.cmtbemvindo2,
+.novologin2 {
+  left: 230px;
+  text-align: center;
+}
+.cmtbemvindo2 {
+  top: 102px;
+  font-size: var(--font-size-17xl);
+  letter-spacing: 0.3em;
+  width: 358px;
+  height: 42px;
+}
+.novologin2 {
+  top: 159px;
+  font-size: var(--font-size-5xl);
+  font-weight: 900;
+  width: 393px;
+  height: 67px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.image-1-icon1 {
+  position: absolute;
+  top: 73px;
+  left: 104px;
+  width: 140px;
+  height: 142px;
+  object-fit: cover;
+}
+.menu-principal {
+  width: 100%;
+  position: relative;
+  backdrop-filter: blur(100px);
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: right;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
